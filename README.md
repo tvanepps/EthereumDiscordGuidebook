@@ -7,45 +7,35 @@ Links are split into two categories:
 - Latest Work: The latest links to research, commentary, talks, discussion
 
 ### 1559 Fee Market
-
-This is a short summary of EIP-1559
+This is a change to Ethereum's fee market which uses elastic blocksizes and burnt Ether to smooth congestion, in addition to many other benefits.
 #### Foundational Resources
-- [EIP-1559 Resources 🔥](https://hackmd.io/@timbeiko/1559-resources)
-- LINK 2
-#### Latest and Greatest
-- [PEEPanEIP #37: EIP-1559: Fee market change with Tim Beiko, Barnabe Monnot, Micah Zoltu](https://www.youtube.com/watch?v=AC1FS3LmoT4&list=PL4cwHXAawZxqu0PKKyMzG_3BJV_xZTi1F)
-- [Cheatsheet: 1559 for Wallets & Users](https://hackmd.io/4YVYKxxvRZGDto7aq7rVkg?view)
-- LINK 2
+- [EIP-1559 Resources 🔥](https://hackmd.io/@timbeiko/1559-resources) - Tim Beiko, others
+#### Latest
+- [PEEPanEIP #37: EIP-1559: Fee market change with Tim Beiko, Barnabe Monnot, Micah Zoltu](https://www.youtube.com/watch?v=AC1FS3LmoT4&list=PL4cwHXAawZxqu0PKKyMzG_3BJV_xZTi1F) - Ethereum Cat Herders
+- [Cheatsheet: 1559 for Wallets & Users](https://hackmd.io/4YVYKxxvRZGDto7aq7rVkg?view) - Trent Van Epps, Tim Beiko
 ---
-### Account Abstraction
-#### Foundational Resources
-- LINK 1
-- LINK 2
-#### Latest and Greatest
-- LINK 1 
-- LINK 2
+### Account Abstraction 
+(Summary needed)
+- [Account Abstraction Link Tree: 2015 - 2020](https://hackmd.io/@matt/r1neQ_B38)
+- June 9 [Proposal for account abstraction via alternative mempool](https://notes.ethereum.org/@vbuterin/alt_abstraction)
+- [🅰️🅰️ Account Abstraction Beyond EIP-2938 🧵🎉](https://hackmd.io/@SamWilsn/S1UQDOzBv#Read-write-Calls) - Nov 2020
+- [Account Abstraction (EIP-2938): Why & What](https://our.status.im/account-abstraction-eip-2938/) - Nov 2020
+- [https://ethereum-magicians.org/t/eip-2938-account-abstraction/4630](https://ethereum-magicians.org/t/eip-2938-account-abstraction/4630)
 ---
 ### Client Development
-#### Foundational Resources
+(Summary needed)
 - LINK 1
-- LINK 2
-#### Latest and Greatest
-- LINK 1 
 - LINK 2
 ---
 ### Polynomial Commitments
-#### Foundational Resources
 - LINK 1
-- LINK 2
-#### Latest and Greatest
-- LINK 1 
 - LINK 2
 ---
 ### EVM
 #### Foundational Resources
 - LINK 1
 - LINK 2
-#### Latest and Greatest
+#### Latest
 - LINK 1 
 - LINK 2
 ---
@@ -53,7 +43,7 @@ This is a short summary of EIP-1559
 #### Foundational Resources
 - LINK 1
 - LINK 2
-#### Latest and Greatest
+#### Latest
 - LINK 1 
 - LINK 2
 ---
@@ -61,7 +51,7 @@ This is a short summary of EIP-1559
 #### Foundational Resources
 - LINK 1
 - LINK 2
-#### Latest and Greatest
+#### Latest
 - LINK 1 
 - LINK 2
 ---
@@ -69,7 +59,7 @@ This is a short summary of EIP-1559
 #### Foundational Resources
 - LINK 1
 - LINK 2
-#### Latest and Greatest
+#### Latest
 - LINK 1 
 - LINK 2
 ---
@@ -77,7 +67,7 @@ This is a short summary of EIP-1559
 #### Foundational Resources
 - LINK 1
 - LINK 2
-#### Latest and Greatest
+#### Latest
 - LINK 1 
 - LINK 2
 ---
@@ -85,7 +75,7 @@ This is a short summary of EIP-1559
 #### Foundational Resources
 - LINK 1
 - LINK 2
-#### Latest and Greatest
+#### Latest
 - LINK 1 
 - LINK 2
 ---
