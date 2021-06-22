@@ -32,20 +32,17 @@ This is a change to Ethereum's fee market which uses elastic blocksizes and burn
 - LINK 2
 ---
 ### EVM
-#### Foundational Resources
 - LINK 1
-- LINK 2
-#### Latest
-- LINK 1 
 - LINK 2
 ---
-### State Access
-#### Foundational Resources
-- LINK 1
-- LINK 2
-#### Latest
-- LINK 1 
-- LINK 2
+### State Expiry
+Summary needed
+
+- [State Expiry EIP](https://notes.ethereum.org/@vbuterin/state_expiry_eip) - June 2020
+- [A state expiry and statelessness roadmap](https://notes.ethereum.org/@vbuterin/verkle_and_state_expiry_proposal)
+- [Verkle tree EIP](https://notes.ethereum.org/@vbuterin/verkle_tree_eip) - June 2020
+- [ASE (Address Space Extension) with Translation Map](https://notes.ethereum.org/@ipsilon/address-space-extension-exploration) - June 2020
+- [Increasing address size from 20 to 32 bytes](https://ethereum-magicians.org/t/increasing-address-size-from-20-to-32-bytes/5485) - March 2020
 ---
 ### Witnesses
 #### Foundational Resources
