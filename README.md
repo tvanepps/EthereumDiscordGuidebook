@@ -1,11 +1,6 @@
 # EthR&D Discord Guidebook
 This is a guidebook of links for research topics in the Ethereum R&amp;D Discord, which follows the existing channel structure.
 
-Links are split into two categories: 
-
-- Foundational Resources: general introductions to the topic
-- Latest Work: The latest links to research, commentary, talks, discussion
-
 ### 1559 Fee Market
 This is a change to Ethereum's fee market which uses elastic blocksizes and burnt Ether to smooth congestion, in addition to many other benefits.
 - [EIP-1559 Resources 🔥](https://hackmd.io/@timbeiko/1559-resources) - Tim Beiko, others
