@@ -8,9 +8,7 @@ Links are split into two categories:
 
 ### 1559 Fee Market
 This is a change to Ethereum's fee market which uses elastic blocksizes and burnt Ether to smooth congestion, in addition to many other benefits.
-#### Foundational Resources
 - [EIP-1559 Resources 🔥](https://hackmd.io/@timbeiko/1559-resources) - Tim Beiko, others
-#### Latest
 - [PEEPanEIP #37: EIP-1559: Fee market change with Tim Beiko, Barnabe Monnot, Micah Zoltu](https://www.youtube.com/watch?v=AC1FS3LmoT4&list=PL4cwHXAawZxqu0PKKyMzG_3BJV_xZTi1F) - Ethereum Cat Herders
 - [Cheatsheet: 1559 for Wallets & Users](https://hackmd.io/4YVYKxxvRZGDto7aq7rVkg?view) - Trent Van Epps, Tim Beiko
 ---
@@ -28,51 +26,47 @@ This is a change to Ethereum's fee market which uses elastic blocksizes and burn
 - LINK 2
 ---
 ### Polynomial Commitments
-- LINK 1
-- LINK 2
+(Summary needed)
+- [Kate polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html) - June 2020
+- [PCS multiproofs using random evaluation](https://dankradfeist.de/ethereum/2021/06/18/pcs-multiproofs.html) - June 2021
+- [Fast Amortized Kate Proofs](https://github.com/khovratovich/Kate/blob/master/Kate_amortized.pdf) - March 2020
+- [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html) - Sep 2019
+- [Ethresear.ch posts on kate](https://ethresear.ch/search?q=kate) - Ongoing
+- [KZG Commitments in C](https://github.com/benjaminion/c-kzg) - Ongoing
+- 
 ---
 ### EVM
-- LINK 1
-- LINK 2
+Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
+- [Everything about the EVM Object Format (EOF)](https://notes.ethereum.org/@ipsilon/evm-object-format-overview) - June 2021
+- [Memory Copying in Contracts Deployed on Ethereum](https://notes.ethereum.org/@ipsilon/evm-mcopy-analysis) - June 2021
 ---
 ### State Expiry
-Summary needed
-
-- [State Expiry EIP](https://notes.ethereum.org/@vbuterin/state_expiry_eip) - June 2020
-- [A state expiry and statelessness roadmap](https://notes.ethereum.org/@vbuterin/verkle_and_state_expiry_proposal)
-- [Verkle tree EIP](https://notes.ethereum.org/@vbuterin/verkle_tree_eip) - June 2020
+"The Ethereum state size is growing quickly... In order to maintain the scalability and sustainability of Ethereum, we need some solution. 
+- [State Expiry EIP](https://notes.ethereum.org/@vbuterin/state_expiry_eip) - June 2021
+- [A state expiry and statelessness roadmap](https://notes.ethereum.org/@vbuterin/verkle_and_state_expiry_proposal) - June 2021
+- [Verkle tree EIP](https://notes.ethereum.org/@vbuterin/verkle_tree_eip) - June 2021
+- [A theory of state size management](https://hackmd.io/@vbuterin/state_size_management) - Feb 2021
+- [A few paths to statelessness and state expiry](https://hackmd.io/@vbuterin/state_expiry_paths) - Feb 2021
+- [Resurrection-conflict-minimized state bounding](https://ethresear.ch/t/resurrection-conflict-minimized-state-bounding-take-2/8739) - Feb 2021
+- [ReGenesis](https://medium.com/@mandrigin/regenesis-explained-97540f457807) - Explication of Alexey Akhunov’s proposal, can be described as a form of state expiry + history expiry - June 2020
 - [ASE (Address Space Extension) with Translation Map](https://notes.ethereum.org/@ipsilon/address-space-extension-exploration) - June 2020
 - [Increasing address size from 20 to 32 bytes](https://ethereum-magicians.org/t/increasing-address-size-from-20-to-32-bytes/5485) - March 2020
+- [The Stateless Client Concept, original ethresear.ch post](https://ethresear.ch/t/the-stateless-client-concept/172) (2017) 
+- [State rent (precursor to state expiry), original proposal](https://github.com/ethereum/EIPs/issues/35) - 2015
+- [Presentation on bounding witness sizes](https://www.youtube.com/watch?v=qQpvkxKso2E) - Jan 2021
+
 ---
 ### Witnesses
-#### Foundational Resources
-- LINK 1
-- LINK 2
-#### Latest
 - LINK 1 
 - LINK 2
 ---
 ### Sync
-#### Foundational Resources
-- LINK 1
-- LINK 2
-#### Latest
-- LINK 1 
-- LINK 2
+- [Geth v1.10.0](https://blog.ethereum.org/2021/03/03/geth-v1-10-0/) Snap Sync - March 2021
 ---
 ### Verkle Trie Migration
-#### Foundational Resources
 - LINK 1
-- LINK 2
-#### Latest
-- LINK 1 
-- LINK 2
 ---
 ### Typed Transactions
-#### Foundational Resources
-- LINK 1
-- LINK 2
-#### Latest
 - LINK 1 
 - LINK 2
 ---
@@ -81,7 +75,7 @@ Summary needed
 - LINK 2
 ---
 ### Portal Network
-- LINK 1
+- [The Portal Network](https://github.com/ethereum/stateless-ethereum-specs/blob/master/portal-network.md)
 - LINK 2
 ---
 ### Cryptography
