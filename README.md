@@ -70,8 +70,9 @@ Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 - LINK 2
 ---
 ### Portal Network
+- [Introducing Fluffy - an ultra-light client for Ethereum](https://our.status.im/nimbus-fluffly/)
 - [The Portal Network](https://github.com/ethereum/stateless-ethereum-specs/blob/master/portal-network.md)
-- LINK 2
+- 
 ---
 ### Cryptography
 - LINK 1
