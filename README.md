@@ -36,7 +36,7 @@ Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 - [Memory Copying in Contracts Deployed on Ethereum](https://notes.ethereum.org/@ipsilon/evm-mcopy-analysis) - June 2021
 ---
 ### State Expiry
-"The Ethereum state size is growing quickly... In order to maintain the scalability and sustainability of Ethereum, we need some 
+"The Ethereum state size is growing quickly... In order to maintain the scalability and sustainability of Ethereum, we need some solutions."
 
 **[Review tying state expiry, witnesses, verkle trees & the portal network, as of end of June 2021](state-expiry/README.md)**
 
