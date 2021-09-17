@@ -1,7 +1,7 @@
 # EthR&D Discord Guidebook
 This is a guidebook of links for research topics in the Ethereum R&amp;D Discord, which follows the existing channel structure.
 
-### 1559 Fee Market
+### Fee Market
 This is a change to Ethereum's fee market which uses elastic blocksizes and burnt Ether to smooth congestion, in addition to many other benefits.
 - [EIP-1559 Resources 🔥](https://hackmd.io/@timbeiko/1559-resources) - Tim Beiko, others
 - [PEEPanEIP #37: EIP-1559: Fee market change with Tim Beiko, Barnabe Monnot, Micah Zoltu](https://www.youtube.com/watch?v=AC1FS3LmoT4&list=PL4cwHXAawZxqu0PKKyMzG_3BJV_xZTi1F) - Ethereum Cat Herders
