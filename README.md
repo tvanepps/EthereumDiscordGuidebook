@@ -9,16 +9,20 @@ This is a change to Ethereum's fee market which uses elastic blocksizes and burn
 ---
 ### Account Abstraction 
 (Summary needed)
+
 - [Account Abstraction Link Tree: 2015 - 2020](https://hackmd.io/@matt/r1neQ_B38)
 - [Proposal for account abstraction via alternative mempool](https://notes.ethereum.org/@vbuterin/alt_abstraction) - June 2021
 - [🅰️🅰️ Account Abstraction Beyond EIP-2938 🧵🎉](https://hackmd.io/@SamWilsn/S1UQDOzBv#Read-write-Calls) - Nov 2020
 - [Account Abstraction (EIP-2938): Why & What](https://our.status.im/account-abstraction-eip-2938/) - Nov 2020
 - [EIP-2938: Account Abstraction - Magician's Discussion](https://ethereum-magicians.org/t/eip-2938-account-abstraction/4630) - Sept 2020
+
 ---
 ### Client Development
 (Summary needed)
-- [Ethereum Wire Protocol (ETH] (https://github.com/ethereum/devp2p/blob/master/caps/eth.md) - Ongoing
+
+- [Ethereum Wire Protocol (ETH)](https://github.com/ethereum/devp2p/blob/master/caps/eth.md) - Ongoing
 - [The State of Client Diversity in Ethereum](https://medium.com/ethereum-cat-herders/the-state-of-client-diversity-in-ethereum-2ca915a3d768) - August 2020
+
 ---
 ### Polynomial Commitments
 (Summary needed)
@@ -77,7 +81,7 @@ Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 ### Typed Transactions
 (Summary Needed)
 
-- [SSZ and Typed Transactions] (https://notes.ethereum.org/71-fSPtGRi-ab-npDf2oIA) - January 2021
+- [SSZ and Typed Transactions](https://notes.ethereum.org/71-fSPtGRi-ab-npDf2oIA) - January 2021
 - [Typed Transactions](https://notes.ethereum.org/Ck-KDLVaQgCHBMfeIhZTcQ) - December 2020
 - [EIP-2976: Typed Transactions over Gossip](https://eips.ethereum.org/EIPS/eip-2976) - September 2020
 
@@ -110,7 +114,7 @@ Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 ### Sharded Data
 (Summary Needed)
 
-- [Sharding FAQs] (https://eth.wiki/sharding/Sharding-FAQs) - Ongoing
+- [Sharding FAQs](https://eth.wiki/sharding/Sharding-FAQs) - Ongoing
 - [Consensus Specs - Sharding](https://github.com/ethereum/consensus-specs/tree/dev/specs/sharding) - Ongoing
 - [Why Sharding is Great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html) - April 2021
 - [An explanation of the sharding and DAS proposal](https://hackmd.io/@vbuterin/sharding_proposal) - January 2021
