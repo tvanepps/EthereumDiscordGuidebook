@@ -9,16 +9,20 @@ This is a change to Ethereum's fee market which uses elastic blocksizes and burn
 ---
 ### Account Abstraction 
 (Summary needed)
+
 - [Account Abstraction Link Tree: 2015 - 2020](https://hackmd.io/@matt/r1neQ_B38)
 - [Proposal for account abstraction via alternative mempool](https://notes.ethereum.org/@vbuterin/alt_abstraction) - June 2021
 - [🅰️🅰️ Account Abstraction Beyond EIP-2938 🧵🎉](https://hackmd.io/@SamWilsn/S1UQDOzBv#Read-write-Calls) - Nov 2020
 - [Account Abstraction (EIP-2938): Why & What](https://our.status.im/account-abstraction-eip-2938/) - Nov 2020
 - [EIP-2938: Account Abstraction - Magician's Discussion](https://ethereum-magicians.org/t/eip-2938-account-abstraction/4630) - Sept 2020
+
 ---
 ### Client Development
 (Summary needed)
-- LINK 1
-- LINK 2
+
+- [Ethereum Wire Protocol (ETH)](https://github.com/ethereum/devp2p/blob/master/caps/eth.md) - Ongoing
+- [The State of Client Diversity in Ethereum](https://medium.com/ethereum-cat-herders/the-state-of-client-diversity-in-ethereum-2ca915a3d768) - August 2020
+
 ---
 ### Polynomial Commitments
 (Summary needed)
@@ -55,22 +59,38 @@ Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 
 ---
 ### Witnesses
-- LINK 1 
-- LINK 2
+(Summary Needed)
+
+- [Ethereum Witness Protocol (wit)](https://github.com/ethereum/devp2p/blob/master/caps/wit.md) - February 2021
+- [The Formal Witness Spec: An Illustrated Primer](https://notes.ethereum.org/bjRBM5IxQQOgqp7bez15xQ) - October 2020
+- [Block Witness Formal Specification](https://github.com/ethereum/portal-network-specs/blob/change-goals-structure/witness.md) - April 2020
+
 ---
 ### Sync
 - [Geth v1.10.0](https://blog.ethereum.org/2021/03/03/geth-v1-10-0/) Snap Sync - March 2021
 ---
 ### Verkle Trie Migration
-- LINK 1
+(Summary Needed)
+
+- [Verkle Tree EIP Notes](https://notes.ethereum.org/@vbuterin/verkle_tree_eip#Verkle-tree-definition) - September 2021
+- [Verkle Trees](https://vitalik.ca/general/2021/06/18/verkle.html) - June 2021
+- [Verkle Tree for Eth1 State](https://dankradfeist.de/ethereum/cryptography/2021/06/18/verkle-trie-for-eth1.html) - June 2021
+- [Verkle Trees Paper](https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf) - 2018
+
 ---
 ### Typed Transactions
-- LINK 1 
-- LINK 2
+(Summary Needed)
+
+- [SSZ and Typed Transactions](https://notes.ethereum.org/71-fSPtGRi-ab-npDf2oIA) - January 2021
+- [Typed Transactions](https://notes.ethereum.org/Ck-KDLVaQgCHBMfeIhZTcQ) - December 2020
+- [EIP-2976: Typed Transactions over Gossip](https://eips.ethereum.org/EIPS/eip-2976) - September 2020
+
 ---
 ### 3074 Meta Transactions
-- LINK 1
-- LINK 2
+(Summary needed)
+
+- [EIP-2718: Typed Transaction Envelope](https://eips.ethereum.org/EIPS/eip-2718) - June 2020
+
 ---
 ### Portal Network
 - [Introducing Fluffy - an ultra-light client for Ethereum](https://our.status.im/nimbus-fluffly/)
@@ -86,12 +106,20 @@ Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 - LINK 2
 ---
 ### Pos Consensus
-- LINK 1
-- LINK 2
+(Summary Needed)
+
+- [Ethereum Proof-Of-Stake Consensus Specifications](https://github.com/ethereum/consensus-specs) - Ongoing
+
 ---
 ### Sharded Data
-- LINK 1
-- LINK 2
+(Summary Needed)
+
+- [Sharding FAQs](https://eth.wiki/sharding/Sharding-FAQs) - Ongoing
+- [Consensus Specs - Sharding](https://github.com/ethereum/consensus-specs/tree/dev/specs/sharding) - Ongoing
+- [Why Sharding is Great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html) - April 2021
+- [An explanation of the sharding and DAS proposal](https://hackmd.io/@vbuterin/sharding_proposal) - January 2021
+- [ETH2 Shard Chain Simplification Proposal](https://notes.ethereum.org/@vbuterin/HkiULaluS) - October 2019
+
 ---
 ### Light Clients
 - LINK 1
@@ -102,18 +130,24 @@ Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 - LINK 2
 ---
 ### Networking
-- LINK 1
-- LINK 2
+(Summary Needed)
+
+- [Phase 0 -- Networking](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/p2p-interface.md) - Ongoing
+
 ---
 ### Secret Shared Validators
-- LINK 1
-- LINK 2
+(Summary Needed)
+
+- [Preventing Eth2 Validator Failure](https://notes.ethereum.org/@adiasg/preventing-eth2-validator-failure) - October 2020
+
 ---
 ### Phase2
 - LINK 1
 - LINK 2
 ---
 ### Formal Methods
-- LINK 1
-- LINK 2
+(Summary Needed)
+
+- [Formal Verification Blog](https://fv.ethereum.org/) - Ongoing
+
 ---
