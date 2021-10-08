@@ -72,7 +72,7 @@ An ongoing project to "Introduce a new Verkle state tree alongside the existing 
 ### Typed Transactions
 (Summary Needed)
 - [SSZ and Typed Transactions](https://notes.ethereum.org/71-fSPtGRi-ab-npDf2oIA) - January 2021
-- [Typed Transactions](https://notes.ethereum.org/Ck-KDLVaQgCHBMfeIhZTcQ) - December 2020
+- [Typed Transactions](https://notes.ethereum.org/Ck-KDLVaQgCHBMfeIhZTcQ) - December 2020
 - [EIP-2976: Typed Transactions over Gossip](https://eips.ethereum.org/EIPS/eip-2976) - September 2020
 ### 3074 & Meta Transactions
 (Summary needed)
@@ -101,7 +101,7 @@ An ongoing project to "Introduce a new Verkle state tree alongside the existing 
 (Summary Needed)
 - [Ethereum Proof-Of-Stake Consensus Specifications](https://github.com/ethereum/consensus-specs) - Ongoing
 ### Sharded Data
-(Summary Needed)e
+(Summary Needed)
 - [Sharding FAQs](https://eth.wiki/sharding/Sharding-FAQs) - Ongoing
 - [Consensus Specs - Sharding](https://github.com/ethereum/consensus-specs/tree/dev/specs/sharding) - Ongoing
 - [Why Sharding is Great: demystifying the technical properties](https://vitalik.ca/general/2021/04/07/sharding.html) - April 2021
