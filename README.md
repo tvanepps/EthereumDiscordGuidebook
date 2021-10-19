@@ -9,8 +9,9 @@ The Core Dev Apprenticeship Program (CDAP) is an effort to onboard more contribu
 The Consensus Layer (Beacon Chain) is defined by an executable python implementation of Ethereum that prioritizes readability and simplicity. There is a project underway to do the same for the Execution Layer.
 - [Consensus Specs](https://github.com/ethereum/consensus-specs) - Work Ongoing
 - [Execution Specs](https://github.com/ethereum/execution-specs) - Work Ongoing
-### Merge
+## Merge
 The Merge will unite the Execution and Consensus layers of Ethereum into a single unified system. At the transition, Proof of Work consensus will be hot swapped with the Proof of Stake Beacon Chain consensus, resulting in a more scalable, secure, and sustainable. 
+- [Amphora Interop Milestone tracker](https://hackmd.io/_9XZIkDBTlqGJejVnOSOJg?view) - Oct 2021
 - [Merge Interop Spec](https://hackmd.io/@n0ble/merge-interop-spec) - Oct 2021
 - [EIP-3675: Upgrade consensus to Proof-of-Stake](https://eips.ethereum.org/EIPS/eip-3675) - July 2021
 ## Execution R&D
