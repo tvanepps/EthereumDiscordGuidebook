@@ -31,10 +31,11 @@ Account abstraction (AA) allows a contract to be the top-level account that pays
 (Summary needed)
 - [Ethereum Wire Protocol (ETH)](https://github.com/ethereum/devp2p/blob/master/caps/eth.md) - Ongoing
 - [The State of Client Diversity in Ethereum](https://medium.com/ethereum-cat-herders/the-state-of-client-diversity-in-ethereum-2ca915a3d768) - August 2020
-### State Expiry
+### Statelessness / State Expiry
 "The Ethereum state size is growing quickly... In order to maintain the scalability and sustainability of Ethereum, we need some solutions."
-**[Review tying state expiry, witnesses, verkle trees & the portal network, as of end of June 2021](state-expiry/README.md)**
 
+- [Ethereum Statelessness Resource Page](https://notes.ethereum.org/@gballet/Sy-a6T5St) - Oct 2021
+- [Review tying state expiry, witnesses, verkle trees & the portal network](state-expiry/README.md) - June 2021
 - [State Expiry EIP](https://notes.ethereum.org/@vbuterin/state_expiry_eip) - June 2021
 - [A state expiry and statelessness roadmap](https://notes.ethereum.org/@vbuterin/verkle_and_state_expiry_proposal) - June 2021
 - [Verkle tree EIP](https://notes.ethereum.org/@vbuterin/verkle_tree_eip) - June 2021
