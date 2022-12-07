@@ -1,10 +1,10 @@
 # EthR&D Discord Guidebook
 This is a guidebook of links for research topics in the Ethereum R&amp;D Discord, which follows the existing channel structure.
 ## General 
-### Apprenticeship Program
-The Core Dev Apprenticeship Program (CDAP) is an effort to onboard more contributors to Ethereum Core Development.
-- [Core Dev Apprenticeship Program Repo](https://github.com/ethereum-cdap) - Updated frequently
-- [Announcement Blog Post](https://blog.ethereum.org/2021/05/13/core-dev-apprenticeship/) - May 2021
+### Fellowship Program
+Ethereum Protocol Fellowship Program (EPF) is an effort to onboard more contributors to Ethereum Core Development.
+- [EPF repositories](https://github.com/eth-protocol-fellows) - Updated frequently
+- [Announcement Blog Post]([https://blog.ethereum.org/2021/05/13/core-dev-apprenticeship/](https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third)) - August 2022
 ### Specifications
 The Consensus Layer (Beacon Chain) is defined by an executable python implementation of Ethereum that prioritizes readability and simplicity. There is a project underway to do the same for the Execution Layer.
 - [Consensus Specs](https://github.com/ethereum/consensus-specs) - Work Ongoing
