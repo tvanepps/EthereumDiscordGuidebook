@@ -105,6 +105,9 @@ Maximal Extractable Value (MEV) represents a centralization vector around block 
 - [Committee-driven MEV smoothing](https://ethresear.ch/t/committee-driven-mev-smoothing/10408) - August 2021
 - [State of research on censorship resistance under PBS](https://notes.ethereum.org/s3JToeApTx6CKLJt8AbhFQ) - January 2022
 - [Current crList proposal](https://notes.ethereum.org/Dh7NaB59TnuUW5545msDJQ) - February 2022
+### EIP-6404 and EIP-6466 SSZification of Transaction and Receipt Roots
+- [Study on the SSZification Impact on existing applications/protocol](EIP-6404_And_EIP-6466/Dedaub%20EF%20Receipts%20&%20Transactions%20SSZ%20Root%20Impact%20Study.odt)
+- [Presentation on the SSZification Impact on existing applications/protocol](EIP-6404_And_EIP-6466/EF%20Study%20-%20RLP%20to%20SSZ%20migration.odp)
 ## Consensus R&D
 ### Portal Network
 - [Introducing Fluffy - an ultra-light client for Ethereum](https://our.status.im/nimbus-fluffly/)
