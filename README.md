@@ -72,6 +72,7 @@ Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 - [Block Witness Formal Specification](https://github.com/ethereum/portal-network-specs/blob/change-goals-structure/witness.md) - April 2020
 ### Verkle Trie Migration
 An ongoing project to "Introduce a new Verkle state tree alongside the existing hexary Patricia tree. After the hard fork, the Verkle tree stores all edits to state and a copy of all accessed state, and the hexary Patricia tree can no longer be modified." This effort often considered a prerequisite for some degrees of Statelessness.
+- [Verkle Tree Update](https://docs.google.com/presentation/d/1Hgke4EHtjHBaYrIA6WbToGip6eho6INBgvwG76BIw1M) - Aug 2023
 - [Ethereum statelessness roadmap](https://notes.ethereum.org/Yn_mwNa2SeeQHnKsRgekKg) - Oct 2021
 - [Verkle Tree EIP Draft](https://notes.ethereum.org/5HDhQXstTaKtVqVbS7S9yw) - Oct 2021
 - [Verkle Tree EIP Notes](https://notes.ethereum.org/@vbuterin/verkle_tree_eip#Verkle-tree-definition) - September 2021
