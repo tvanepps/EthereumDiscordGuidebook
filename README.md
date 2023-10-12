@@ -56,6 +56,7 @@ Account abstraction (AA) allows a contract to be the top-level account that pays
 Research and initiatives related to improving the Ethereum Virtual Machine (EVM)
 - [Everything about the EVM Object Format (EOF)](https://notes.ethereum.org/@ipsilon/evm-object-format-overview) - June 2021
 - [Memory Copying in Contracts Deployed on Ethereum](https://notes.ethereum.org/@ipsilon/evm-mcopy-analysis) - June 2021
+- [EOF Status Update 2023-10-12](EOF%20Status%20Update%202023-10-12.pptx)
 ### Polynomial Commitments
 (Summary needed)
 - [Kate polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html) - June 2020
