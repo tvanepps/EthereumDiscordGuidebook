@@ -1,5 +1,8 @@
 # EthR&D Discord Guidebook
-This is a guidebook of links for research topics in the Ethereum R&amp;D Discord, which follows the existing channel structure.
+A guidebook to the bleeding edge of research topics in the Ethereum R&D Discord, which should follow the existing channel structure.
+
+Help wanted to get it up to date: updating channel structure and links to the latest work in each area ensures this resource remains relevant.
+
 ## General 
 ### Fellowship Program
 Ethereum Protocol Fellowship Program (EPF) is an effort to onboard more contributors to Ethereum Core Development.
