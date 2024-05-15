@@ -17,8 +17,9 @@ The Consensus Layer (Beacon Chain) is defined by an executable python implementa
 - [Execution Specs](https://github.com/ethereum/execution-specs) - Work Ongoing
 ### Protocol Fellowship
 Ethereum Protocol Fellowship Program (EPF) is an effort to onboard more contributors to Ethereum Core Development.
-- [EPF repositories](https://github.com/eth-protocol-fellows) - Updated frequently
-- [Announcement Blog Post]([https://blog.ethereum.org/2021/05/13/core-dev-apprenticeship/](https://blog.ethereum.org/2022/09/01/ethereum-protocol-fellowship-third)) - August 2022
+- [EPF repositories](https://github.com/eth-protocol-fellows) - Updated frequently.
+- [EPF Wiki](https://epf.wiki/#/) - A wiki maintained by the community formed around the EPF study group. Contributions are welcome!!
+- [Fifth Cohort Announcement Blog Post](https://blog.ethereum.org/2024/05/13/epf-5-announcement) - May 2024
 ### Rollcall
 - Link1
 - Link2
